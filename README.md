@@ -18,7 +18,7 @@ A **text utility web app** built using **React** and **Tailwind CSS**, designed 
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑🏻‍💻 Tech Stack
 
 - **Frontend**: React, Tailwind CSS
 - **Deployment**: Netlify
